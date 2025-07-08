@@ -1,0 +1,9 @@
+{
+  "name": "rankaholic",
+  "version": "0.0.1",
+  "description": "A minimal decision-making app that helps you rank what matters, one 'this or that' at a time. Made for sorting thoughts, feelings, or favorites with intention.",
+  "repository": "git@github.com:rheaditi/rankaholic.git",
+  "author": "Aditi Mohanty <rheaditi@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
